@@ -25,6 +25,7 @@ Com objetivo de facilitar o processo de análise, organização e integração d
 - Número da nota fiscal
 - Data de emissão
 - Descrição do serviço prestado
+- Comissão do vendedor
 - Valor do ISS
 - Base de cálculo
 
