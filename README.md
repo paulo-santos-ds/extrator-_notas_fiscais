@@ -1,6 +1,6 @@
 # 📄 Extrator de Notas Fiscais
 
-Uma aplicação completa para extrair dados de notas fiscais em formato PDF com interface gráfica amigável.
+Desenvolvemos uma aplicação completa e intuitiva para realizar a extração automatizada de informações essenciais de notas fiscais eletrônicas (NF-e) em formato PDF. O objetivo é facilitar o processo de análise, organização e integração dos dados fiscais com sistemas contábeis, ERPs ou planilhas de controle interno.
 
 ![Captura de tela da interface](docs/screenshots/interface_example.png)
 
