@@ -30,7 +30,7 @@ Uma aplicação completa para extrair dados de notas fiscais em formato PDF com 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/extrator-notas-fiscais.git
+git clone https://github.com/paulo-santos-ds/extrator-_notas_fiscais
 cd extrator-notas-fiscais
 ```
 
