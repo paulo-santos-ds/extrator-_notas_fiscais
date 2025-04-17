@@ -88,15 +88,37 @@ A interface será aberta automaticamente no seu navegador padrão.
 ```
 extrator-notas-fiscais/
 │
-├── app.py                     # Aplicativo principal Streamlit
-├── src/                       # Código fonte
-├── tests/                     # Testes automatizados
-├── temp/                      # Pasta temporária 
-├── logs/                      # Logs da aplicação
-├── docs/                      # Documentação
-├── README.md                  # Este arquivo
-└── requirements.txt           # Dependências do projeto
+├── app.py                     # Arquivo principal para execução da aplicação Streamlit
+│
+├── src/                       # Módulos e componentes do núcleo da aplicação
+│   ├── extractor.py           # Lógica de extração de dados das notas fiscais (PDF parsing)
+│   ├── parser_utils.py        # Funções auxiliares de parsing e tratamento de texto
+│   └── interface.py           # Componentes da interface com Streamlit
+│
+├── tests/                     # Testes unitários e de integração
+│   └── test_extractor.py      # Casos de teste para a extração de dados
+│
+├── temp/                      # Diretório para arquivos temporários e processamentos intermediários
+│
+├── logs/                      # Armazenamento de logs de execução e eventos do sistema
+│   └── app.log                # Log principal da aplicação
+│
+├── docs/                      # Documentação técnica e guias de uso
+│   └── user_guide.md          # Guia do usuário para instalação e utilização da aplicação
+│
+├── imagens/                   # Imagens utilizadas na interface ou na documentação
+│   └── exemplo_nf.png         # Exemplo de nota fiscal usada para teste
+│
+├── videos/                    # Vídeos demonstrativos e tutoriais
+│   └── aplicacao.mp4     # Demonstração em vídeo da aplicação em funcionamento
+│
+├── README.md                  # Visão geral do projeto, instruções de uso e configuração
+│
+└── requirements.txt           # Lista de dependências e bibliotecas necessárias
+
 ```
+
+
 
 Para mais detalhes sobre a estrutura do projeto, consulte a [documentação detalhada](docs/structure.md).
 
