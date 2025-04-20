@@ -7,6 +7,7 @@ Pensando nisso, desenvolvemos uma aplicação completa e intuitiva para automati
 Com objetivo de facilitar o processo de análise, organização e integração dessas informações com sistemas contábeis, ERPs ou planilhas de controle, economizando tempo e garantindo mais precisão no seu fluxo de trabalho.
 
 
+
 ![Captura de tela da interface](docs/screenshots/interface.png)
 
 ## 🔍 Funcionalidades
