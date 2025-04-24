@@ -39,7 +39,6 @@ Com objetivo de facilitar o processo de análise, organização e integração d
 git clone https://github.com/paulo-santos-ds/extrator-_notas_fiscais
 cd extrator-notas-fiscais
 ```
-
 2. Crie um ambiente virtual (opcional, mas recomendado):
 ```bash
 python -m venv venv
