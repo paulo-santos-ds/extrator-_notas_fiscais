@@ -58,6 +58,7 @@ Para iniciar a aplicação:
 streamlit run app.py
 ```
 
+
 A interface será aberta automaticamente no seu navegador padrão.
 
 ## 📱 Modos de Uso
