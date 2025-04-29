@@ -2,6 +2,7 @@
 
 Imagine ter que, todo mês, enfrentar o desafio de coletar manualmente os dados dos clientes a partir de notas fiscais em PDF — um trabalho repetitivo, cansativo e sujeito a erros.
 
+
 Pensando nisso, desenvolvemos uma aplicação completa e intuitiva para automatizar a extração de informações essenciais de notas fiscais eletrônicas (NF-e) em PDF. Com apenas alguns cliques, você consegue extrair dados como CNPJ, razão social e valor da nota, organizando tudo de forma estruturada e confiável.
 
 Com objetivo de facilitar o processo de análise, organização e integração dessas informações com sistemas contábeis, ERPs ou planilhas de controle, economizando tempo e garantindo mais precisão no seu fluxo de trabalho.
