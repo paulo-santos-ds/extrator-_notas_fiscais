@@ -13,6 +13,7 @@ sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 # Importa o extrator de notas fiscais
 from extrator import ExtractorNotaFiscal, processar_multiplos_pdfs
 
+
 # Configuração da página
 st.set_page_config(
     page_title="Extrator de Notas Fiscais",
